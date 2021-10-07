@@ -1,0 +1,5 @@
+This is starting of git learning!
+Now i am modifying it.
+Now i am going into modified state!
+git diff compares working directory with staging area!
+git diff --staged command compares staging area with previous commit. 
